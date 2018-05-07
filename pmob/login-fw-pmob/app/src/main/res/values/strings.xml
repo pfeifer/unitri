@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LoginFW</string>
+    <string name="facebook_app_id">1608389602532234</string>
+    <string name="fb_login_protocol_scheme">fb1608389602532234</string>
+    <string name="foto_do_perfil">Foto do perfil</string>
+    <string name="sair"><u>Sair</u></string>
+    <string name="informe_o_seu_e_mail">Informe o seu e-mail</string>
+    <string name="bem_vindo_ao_nosso_string_app_name">Bem vindo ao nosso @string/app_name</string>
+    <string name="informe_a_sua_senha">Informe a sua senha</string>
+    <string name="entrar">Entrar</string>
+</resources>
